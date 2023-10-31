@@ -116,7 +116,7 @@ print(cars)
 
 ## Find all the numbers from 1 to 1000 that have a 4 in them
 numfour = [str(x) for x in range(1,1001) if '4' in str(x)]
-#print(numfour)
+print(numfour)
 
 
 ## count how many times the word 'the' appears in the text file - 'sometext.txt'
